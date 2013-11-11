@@ -1,6 +1,8 @@
 StatusEngine
 ============
 
+* [![Build Status](https://travis-ci.org/paperboy-all/status_engine.png)](https://travis-ci.org/paperboy-all/status_engine)
+
 StatusEngine describes your rails status, such as:
 
 * healthiness
